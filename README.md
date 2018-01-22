@@ -1,6 +1,5 @@
 # knowledge-time
 recording what i doing during time.
-this line is the first edit in this file
 
 day 1: i setup all my accounts, and get to know linux shell, the babun shell.
 
