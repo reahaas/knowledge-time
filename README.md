@@ -7,6 +7,6 @@ day 2: i get to know git. read about the architecture and the commands.
 
 day 3: i start a git project, that recording the process of start working in the company.  
 
-day 4: continue the git.
+day 4: continue the git. use tmux (split the shell, session handling)
 
 
