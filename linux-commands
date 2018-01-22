@@ -1,4 +1,4 @@
-this file contain the linux commands i learned in work. with the day i learned it:
+﻿this file contain the linux commands i learned in work. with the day i learned it:
 
 Commands:
 
@@ -64,4 +64,10 @@ echo ‘string’ : output the string resived as an argument. Use as:
 touch “file.txt” : create a new file name file in txt format
  
 ***!!! first day end !!!***
+
+
+
+Linux tutorial:
+https://linuxsurvival.com/linux-tutorial-introduction/
+
 
