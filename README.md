@@ -10,7 +10,7 @@ __day 3:__ i start a _git project_, that recording the process of start working 
 
 __day 4:__ continue the _git_. use _tmux_ (split the shell, session handling)
 
-__day 5:__ visit guy in Beer sheva. setup a virtual machin (VM).
+__day 5:__ visit guy in Beer sheva. setup a virtual machin (VM). get a task to find tutorials for all the subjects in the tester101 file.
 
 
 
