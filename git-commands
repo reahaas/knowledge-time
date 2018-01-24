@@ -1,5 +1,16 @@
 Git Commands:
 
+Git linkes:
+
+git tutorial: for commands
+https://learngitbranching.js.org/
+http://rogerdudler.github.io/git-guide/
+
+git tutorial: for  all around
+https://hackernoon.com/understanding-git-fcffd87c15a3
+
+
+
 Git commit :  make new commit 
 Git branch “branch_name” : create a new branch
 Git checkout “branch” : change the “pointer” to the branch
@@ -16,15 +27,6 @@ Git rebase -i HEAD~3:  allows to rearenge the commits to start from 3 perantes o
 Git clone “URL” : download the git files from the url
 Git status :  print the status of the project 
 
-
-Git linkes:
-
-git tutorial: for commands
-https://learngitbranching.js.org/
-http://rogerdudler.github.io/git-guide/
-
-git tutorial: for  all around
-https://hackernoon.com/understanding-git-fcffd87c15a3
 
 
 

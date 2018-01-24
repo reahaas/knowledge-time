@@ -1,8 +1,10 @@
 ﻿this file contain the linux commands i learned in work. with the day i learned it:
 
-Commands:
+Linux tutorial:
+https://linuxsurvival.com/linux-tutorial-introduction/
 
-***!!! first day of work start !!!***
+
+Commands:
 
 
 ls -list all the files in the directory
@@ -62,8 +64,7 @@ echo ‘string’ : output the string resived as an argument. Use as:
 	echo ‘string’ > new file
 
 touch “file.txt” : create a new file name file in txt format
- 
-***!!! first day end !!!***
+
 
 
 __open folder:__ nautilus "folder name" : open the folder with the file manager
@@ -71,7 +72,5 @@ __open folder:__ nautilus "folder name" : open the folder with the file manager
 __cutting, copy and pasting__ use: ctrl+shift+(x,c,v) (insted of just ctrl+(x,c,v)
 
 
-Linux tutorial:
-https://linuxsurvival.com/linux-tutorial-introduction/
 
 
