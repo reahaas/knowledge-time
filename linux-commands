@@ -66,6 +66,8 @@ touch “file.txt” : create a new file name file in txt format
 ***!!! first day end !!!***
 
 
+__open folder:__ nautilus "folder name" : open the folder with the file manager
+
 __cutting, copy and pasting__ use: ctrl+shift+(x,c,v) (insted of just ctrl+(x,c,v)
 
 
