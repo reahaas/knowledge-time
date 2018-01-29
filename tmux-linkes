@@ -6,3 +6,8 @@ tmux cheatsheet :
 
 https://gist.github.com/henrik/1967800
 
+
+
+to scroll in tmux terminal in vm use:
+<ctrl-b> [ 
+thhen you can move with the arrows
