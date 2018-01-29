@@ -12,7 +12,7 @@ __day 4:__ continue the _git_. use _tmux_ (split the shell, session handling)
 
 __day 5:__ visit guy in Beer sheva. setup a virtual machin (VM). get a task to find tutorials for all the subjects in the tester101 file.
 
-__day 6:__ first sprint summary. look for guides ant tutorials for all the subject i need to learn.
+__day 6:__ first sprint summary. look for guides and tutorials for all the subject i need to learn.
 
 __day 7:__ end of looks for tutorials. 
 
