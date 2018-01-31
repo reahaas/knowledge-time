@@ -14,5 +14,9 @@ __day 5:__ visit guy in Beer sheva. setup a virtual machin (VM). get a task to f
 
 __day 6:__ first sprint summary. look for guides and tutorials for all the subject i need to learn.
 
-__day 7:__ end of looks for tutorials. 
+__day 7:__ end of looks for tutorials. start to study networks 
+
+__day 8:__ networks
+
+__day 9:__ networks
 
