@@ -65,6 +65,7 @@ echo ‘string’ : output the string resived as an argument. Use as:
 
 touch “file.txt” : create a new file name file in txt format
 
+curl ipv4.ident.me : print my public ip address
 
 
 __open folder:__ nautilus "folder name" : open the folder with the file manager
