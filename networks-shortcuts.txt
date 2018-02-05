@@ -1,9 +1,8 @@
 
 networks shortcuts:
 
-__OSI__ Open Systems Interconnection
+__OSI model__ Open Systems Interconnection
 
-__model:__ 
 __NAT:__ Network address translation
 __PAT:__ Port Address Translation
 __MAC:__ Media Access Control
