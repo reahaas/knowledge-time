@@ -20,3 +20,5 @@ __day 8:__ networks
 
 __day 9:__ networks
 
+__day 10__ networks, finsh the book
+
