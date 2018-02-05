@@ -14,3 +14,4 @@ __DNS:__ Domain Name System
 __ICMP:__ Internet Control Message Protocol 
 __ARP:__ Address Resolution Protocol
 __DHCP:__ Dynamic Host Configuration Protocol
+__PAT:__ Port Address Translation
