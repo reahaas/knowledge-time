@@ -9,5 +9,8 @@ __MAC:__ Media Access Control
 __IP:__ internet protocol
 __TCP:__ Transmission Control Protocol
 __UDP:__ User Datagram Protocol
+
+__DNS:__ Domain Name System
 __ICMP:__ Internet Control Message Protocol 
 __ARP:__ Address Resolution Protocol
+__DHCP:__ Dynamic Host Configuration Protocol
