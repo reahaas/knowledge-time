@@ -20,5 +20,13 @@ __day 8:__ networks
 
 __day 9:__ networks
 
-__day 10__ networks, finsh the book
+__day 10:__ networks, finish the book
+
+__day 11:__ little more networks, and first try to raise up a vm
+
+__day 12:__ rise up vm, and scadafence in my pc, and on beast  
+
+__day 13:__ look for bugs in scadafence by black box tests.
+
+
 

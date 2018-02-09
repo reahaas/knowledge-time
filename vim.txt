@@ -1,0 +1,9 @@
+vim tutorial:
+
+http://www.openvim.com/
+
+vim cheatsheet :
+
+http://vimsheet.com/
+
+
