@@ -31,6 +31,8 @@ rmdir “directory”: remove the directory . only good for empty directory
 
 chmod “u/g/o”  “+/-” “file”: change mode for the (user/group/other) to (+/-) of the rwx(read, write, execute) to the file.  
 
+	chmod 777 <filenam>: each 7 stand for 1 (read) + 2 (write) + 4 (execute). use any combination you need : 3 = 1 (read) + 2 (write)
+
 ~ : shortcut for /home/user
 
 Man “command” : open the manual for the command
