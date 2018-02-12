@@ -7,21 +7,21 @@ https://confluence.atlassian.com/doc/confluence-wiki-markup-251003035.html
 
 how to work with jira (atlassian):
 
-__1. __ An issue should be related to a single problem - "dashboard is loaded slowly and graph shows wrong data" is bad, split this to 2 issues.
+__1__ An issue should be related to a single problem - "dashboard is loaded slowly and graph shows wrong data" is bad, split this to 2 issues.
 
-__2. __ List clear steps to reproduce - including version, specific data that was loaded (pcaps or DB), what steps were done exactly and screenshots.
+__2__ List clear steps to reproduce - including version, specific data that was loaded (pcaps or DB), what steps were done exactly and screenshots.
 
-__3. __ Proper issue type - if you have a suggestion for an improvement, it is not a bug, it is likely to be an initiative.
+__3__ Proper issue type - if you have a suggestion for an improvement, it is not a bug, it is likely to be an initiative.
 
-__4. __ Clear title, that allows to easily understand the problem / suggestion
+__4__ Clear title, that allows to easily understand the problem / suggestion
 
-__5. __ Use keywords, don't use abbreviations - makes it easier to locate issues, if there is a keyword that you think can help, but you couldn't add it to the text - add "keywords: xxx, yyy, zzz" in the end of the issue.
+__5__ Use keywords, don't use abbreviations - makes it easier to locate issues, if there is a keyword that you think can help, but you couldn't add it to the text - add "keywords: xxx, yyy, zzz" in the end of the issue.
 
 	if you write "MB" instead of "modbus", it will be hard to locate this issue in the future.
 
-__7. __ Use JIRA's formatting
+__7__ Use JIRA's formatting
 	* {{}} for code oneliners, or {code}...{code} for code blocks, if possible also include syntax highlighting
 	* Use headers (for example, for steps to reproduce)
 	* Use numbered lists
 
-__9. __ Make sure that your issue looks like you meant after you have opened it - no broken links, screenshots appear, text is clear and understandable.
+__9__ Make sure that your issue looks like you meant after you have opened it - no broken links, screenshots appear, text is clear and understandable.
