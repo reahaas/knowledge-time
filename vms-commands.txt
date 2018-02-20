@@ -1,4 +1,8 @@
 
+__vagrant cheet sheet:__
+
+https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
+
 __commands for vms:__
 
 __VBoxManage list vms__  :Get a list of all your VirtualBox virtual machines by name and UUID from the shell
