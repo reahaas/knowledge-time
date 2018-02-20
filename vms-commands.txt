@@ -13,6 +13,7 @@ __VBoxManage list runningvms__  : A similar command that lists only the currentl
 __VBoxManage unregistervm --delete "<Name of Machine>"__  : delete a vm
 
 
+__sudo shutdown -h now__  : shutdown the machine
 
 
 
