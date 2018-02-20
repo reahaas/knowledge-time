@@ -10,6 +10,8 @@ __VBoxManage list vms__  :Get a list of all your VirtualBox virtual machines by 
 __VBoxManage list runningvms__  : A similar command that lists only the currently running VMs
 
 
+__VBoxManage unregistervm --delete "<Name of Machine>"__  : delete a vm
+
 
 
 
