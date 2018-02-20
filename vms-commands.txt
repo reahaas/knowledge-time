@@ -1,0 +1,14 @@
+
+__commands for vms:__
+
+__VBoxManage list vms__  :Get a list of all your VirtualBox virtual machines by name and UUID from the shell
+
+__VBoxManage list runningvms__  : A similar command that lists only the currently running VMs
+
+
+
+
+
+
+
+
