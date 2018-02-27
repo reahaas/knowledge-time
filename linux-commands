@@ -26,6 +26,7 @@ cp “file” “directory_to_copy”:  copy the file to the directory
 
 rm “file”: remove the file
 	rm -r “directory” : remove all the directory tree, with all its files.
+	rm -rf "directory" : the -f force the remove
 
 rmdir “directory”: remove the directory . only good for empty directory
 
