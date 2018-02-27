@@ -1,0 +1,17 @@
+
+
+rsa keys use to make auto login to the server or git hub, and more :)
+
+what is rsa keys and how it work (tutorial):
+
+https://www.youtube.com/watch?v=-J9wUW5NhOQ
+
+
+rsa keys for beast from putty:
+
+https://www.youtube.com/watch?v=vj29uVUX1Ys
+
+
+rsa keys for github:
+
+https://www.youtube.com/watch?v=H5qNpRGB7Qw
