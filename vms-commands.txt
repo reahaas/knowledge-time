@@ -3,6 +3,10 @@ __vagrant cheet sheet:__
 
 https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
 
+__connection between host to vm__
+
+https://www.slideshare.net/powerhan96/networking-between-host-and-guest-v-ms-in-virtual-box
+
 __commands for vms:__
 
 __vagrant global-status__  : Get a list of all your VirtualBox virtual machines by name and UUID from the shell
@@ -16,6 +20,8 @@ __VBoxManage unregistervm --delete "<Name of Machine>"__  : delete a vm
 
 
 __sudo shutdown -h now__  : shutdown the machine
+
+
 
 
 
