@@ -14,4 +14,22 @@ then you can move with the arrows
 
 copy from tmux to clip board:
 
+
+1. Ctrl+b, [ Enter copy(?) mode.
+
+2. Move to start/end of text to highlight.
+
+3. Ctrl+space
+
+4. Start highlighting text (on Arch Linux). When I've compiled tmux from source on OSX and other Linux's, just Space on its own usually works. Selected text changes the colours, so you'll know if the command worked.
+
+5. Move to opposite end of text to copy.
+
+6. Alt+w Copies selected text into tmux clipboard. (On Mac use Esc+w.)
+
+7. Move cursor to opposite tmux pane, or completely different tmux window. Put the cursor where you want to paste the text you just copied.
+
+Ctrl+b, ] Paste copied text from tmux clipboard.
+
+link about tmux clipboard:
 https://unix.stackexchange.com/questions/58763/copy-text-from-one-tmux-pane-to-another-using-vim
