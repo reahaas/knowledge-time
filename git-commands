@@ -28,6 +28,11 @@ Git clone “URL” : download the git files from the url
 Git status :  print the status of the project 
 
 
+
+list branches not working:
+1. update the branches list with: "gir fetch"
+2. list all branches : "git branch -a"
+
 guide lines to working with git:
 1. pull your branch from github with : "git pull origin <branch-name>"
 2. make your changes in the local repository
