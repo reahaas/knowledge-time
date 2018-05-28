@@ -12,21 +12,28 @@ https://hackernoon.com/understanding-git-fcffd87c15a3
 
 
 Git commit :  make new commit 
-Git branch “branch_name” : create a new branch
-Git checkout “branch” : change the “pointer” to the branch
-Git checkout -b “branch_name” : create a new branch and point on it at one command
-Git merge “branch” : merge the branch to the pointer branch
-Git rebase “branch” : reorganized the commit to a liner line
+Git branch â€œbranch_nameâ€ : create a new branch
+Git checkout â€œbranchâ€ : change the â€œpointerâ€ to the branch
+Git checkout -b â€œbranch_nameâ€ : create a new branch and point on it at one command
+Git merge â€œbranchâ€ : merge the branch to the pointer branch
+Git rebase â€œbranchâ€ : reorganized the commit to a liner line
 Git checkout HEAD^ : move head up  one (the operator ^ take one perant up)
  Git checkout HEAD~5:  take head 5 perants up
 Git branch -f master HEAD~5 : -f reassaing a branch to a commit
 Git reset HEAD~1:  take the pointer one back
 Git revert HEAD : allows to sher changes
-Git cherry-pick “commit1” “commit2” : make a copy of the commits to HEAD 
+Git cherry-pick â€œcommit1â€ â€œcommit2â€ : make a copy of the commits to HEAD 
 Git rebase -i HEAD~3:  allows to rearenge the commits to start from 3 perantes of head
-Git clone “URL” : download the git files from the url
+Git clone â€œURLâ€ : download the git files from the url
 Git status :  print the status of the project 
 
 
+guide lines to working with git:
+1. pull your branch from github with : "git pull origin <branch-name>"
+2. make your changes in the local repository
+3. add your changes by: "git add <directory-that-changed>"
+4. commit your changes to the local repository : "git commit"
+5. push your commit back to remote repository: "git push"
 
-
+6. make sure that the local repository is connected to the remote repository: "git push --set-upstream origin <remote-branch-name>"
+   for this you may need to insert your github mail and username : "
