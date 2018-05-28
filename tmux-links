@@ -33,3 +33,6 @@ Ctrl+b, ] Paste copied text from tmux clipboard.
 
 link about tmux clipboard:
 https://unix.stackexchange.com/questions/58763/copy-text-from-one-tmux-pane-to-another-using-vim
+
+whem tmux is stuck use this:  (https://github.com/tmux/tmux/issues/507)
+detaching "[prefix] + d" and reattaching with -d option "tmux a -d" usually helps me.
