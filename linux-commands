@@ -1,8 +1,13 @@
 ﻿this file contain the linux commands i learned in work. with the day i learned it:
 
-Linux tutorial:
+## usefull links:
+
+### Linux tutorial:
 https://linuxsurvival.com/linux-tutorial-introduction/
 
+### print commands output to a file:
+https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
+best option:    ** command | tee output.txt **
 
 Commands:
 
