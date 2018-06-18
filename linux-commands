@@ -7,7 +7,7 @@ https://linuxsurvival.com/linux-tutorial-introduction/
 
 ### print commands output to a file:
 https://askubuntu.com/questions/420981/how-do-i-save-terminal-output-to-a-file
-best option:    ** command | tee output.txt **
+best option:    ** command |& tee output.txt **
 
 Commands:
 
