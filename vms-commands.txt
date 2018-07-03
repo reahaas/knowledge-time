@@ -3,6 +3,9 @@ __vagrant cheet sheet:__
 
 https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
 
+__vagrant file configurations__
+https://www.vagrantup.com/docs/virtualbox/configuration.html
+
 __connection between host to vm__
 
 https://www.slideshare.net/powerhan96/networking-between-host-and-guest-v-ms-in-virtual-box
