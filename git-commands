@@ -1,32 +1,46 @@
 Git Commands:
 
-Git linkes:
+## Git linkes:
 
-git tutorial: for commands
+### git tutorial: for commands
 https://learngitbranching.js.org/
 http://rogerdudler.github.io/git-guide/
 
-git tutorial: for  all around
+### git tutorial: for  all around
 https://hackernoon.com/understanding-git-fcffd87c15a3
 
+### github edit README file cheat sheet: 
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
 Git commit :  make new commit 
-Git branch ìbranch_nameî : create a new branch
-Git checkout ìbranchî : change the ìpointerî to the branch
-Git checkout -b ìbranch_nameî : create a new branch and point on it at one command
-Git merge ìbranchî : merge the branch to the pointer branch
-Git rebase ìbranchî : reorganized the commit to a liner line
+Git branch ‚Äúbranch_name‚Äù : create a new branch
+Git checkout ‚Äúbranch‚Äù : change the ‚Äúpointer‚Äù to the branch
+Git checkout -b ‚Äúbranch_name‚Äù : create a new branch and point on it at one command
+Git merge ‚Äúbranch‚Äù : merge the branch to the pointer branch
+Git rebase ‚Äúbranch‚Äù : reorganized the commit to a liner line
 Git checkout HEAD^ : move head up  one (the operator ^ take one perant up)
  Git checkout HEAD~5:  take head 5 perants up
 Git branch -f master HEAD~5 : -f reassaing a branch to a commit
 Git reset HEAD~1:  take the pointer one back
 Git revert HEAD : allows to sher changes
-Git cherry-pick ìcommit1î ìcommit2î : make a copy of the commits to HEAD 
+Git cherry-pick ‚Äúcommit1‚Äù ‚Äúcommit2‚Äù : make a copy of the commits to HEAD 
 Git rebase -i HEAD~3:  allows to rearenge the commits to start from 3 perantes of head
-Git clone ìURLî : download the git files from the url
+Git clone ‚ÄúURL‚Äù : download the git files from the url
 Git status :  print the status of the project 
 
 
 
+list branches not working:
+1. update the branches list with: "gir fetch"
+2. list all branches : "git branch -a"
 
+guide lines to working with git:
+1. pull your branch from github with : "git pull origin <branch-name>"
+2. make your changes in the local repository
+3. add your changes by: "git add <directory-that-changed>"
+4. commit your changes to the local repository : "git commit"
+5. push your commit back to remote repository: "git push"
+
+6. make sure that the local repository is connected to the remote repository: "git push --set-upstream origin <remote-branch-name>"
+   for this you may need to insert your github mail and username : "
