@@ -76,5 +76,17 @@ __open folder:__ nautilus "folder name" : open the folder with the file manager
 __cutting, copy and pasting__ use: ctrl+shift+(x,c,v) (insted of just ctrl+(x,c,v)
 
 
+# infinite loop that prints the command output to a file.
+ 
+while true           // infinty loop
+ 
+do
+ 
+<commands....>       // the commands that the loop do every time
+ 
+sleep 1              // wait between each iterate of the loop
+ 
+done  >> log.txt     // redirect the output to a log file
+
 
 
