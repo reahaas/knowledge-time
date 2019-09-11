@@ -6,4 +6,11 @@ vim cheatsheet :
 
 http://vimsheet.com/
 
+my common commands:
+
+paste from yanked text (0 register):
+"0p
+
+macro to replace text by interactive asking for replacement:
+:s/<find-pattern>/replace-pattern/gc
 
