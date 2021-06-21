@@ -1,0 +1,22 @@
+1. work less hours:
+   start at 09:00 (wakeup at 08:40)
+   end at 18:00
+   * summary day every day.
+   
+2. distraction reduction.
+
+3. what had I automated today?
+
+4. talk to the mentor every day.
+   mentor can change per week/month
+   
+5. smaller tasks - each day should end with a PR.
+   and if the task is not small enough, break it even more for the next day.
+   
+6. 
+
+
+
+issues:
+
+1. How to break PR into smaller peacies? refactor vs bug fix vs new functionality.
